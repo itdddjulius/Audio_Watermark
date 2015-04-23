@@ -1,6 +1,6 @@
-PhoneGap_Audio_Watermarks
-=========================
-This is a sample project demonstrating the use of audio watermarks for synchronized mobile app & video/second-screen experiences.  Read more about this proof of concept at: http://www.tricedesigns.com/?p=2631
+Audio_Watermarks
+================
+This is a sample project demonstrating the use of audio watermarks for synchronized mobile app & video/second-screen experiences.  Read more about this proof of concept at: http://raiiiar.com/audiowatermark/proof/
 
 Applications built using PhoneGap, targeting iOS.  Learn more at http://www.phonegap.com
 
